@@ -19,7 +19,7 @@ Git is a distributed version control system that allows developers to work toget
 
 A repository is a place to store content. This project is kept in a public repository at <https://github.com/denisecase/git-started-windows>.
 
-Repositories may also be private - visible only to yourself or to a team.
+Repositories may also be private - visible only to your
 
 ## Cloud Storage Providers
 
